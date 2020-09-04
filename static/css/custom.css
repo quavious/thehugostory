@@ -1,0 +1,13 @@
+body {
+    background-color: #494f5c;
+}
+
+#home-subtitle {
+    margin-top: 20px;
+}
+
+@media (max-width: 992px) {
+    main {
+        margin-top: 100px;
+    }
+}
