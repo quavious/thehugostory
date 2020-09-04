@@ -11,3 +11,8 @@ body {
         margin-top: 100px !important;
     }
 }
+
+.main-title-paragraph {
+    visibility: hidden; 
+    position: fixed;
+}
