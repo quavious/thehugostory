@@ -16,3 +16,21 @@ body {
     visibility: hidden; 
     position: fixed;
 }
+
+.pagination {
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.pagination__item {
+   display: inline-block;
+   padding: 10px 15px;
+    font-weight: 700;
+    color: #000;
+    background: #c6c6c7
+}
+
+.pagination__item:hover, .pagination__item--current {
+   color: #fff;
+   background: #535e75
+}  
