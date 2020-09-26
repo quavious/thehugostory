@@ -2,7 +2,6 @@
 <html lang="{{.Site.LanguageCode}}">
 
 <head>
-	<script data-ad-client="ca-pub-8567722160341015" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<link rel="stylesheet" href="{{.Site.BaseURL}}css/bootstrap.css" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -51,6 +50,10 @@
 	{{- if templates.Exists "partials/extra-foot.html" -}}
 	{{ partial "extra-foot.html" . }}
 	{{- end }}
+	<script data-ad-client="ca-pub-8567722160341015" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
 	<script src="{{.Site.BaseURL}}js/jquery.js"></script>
 	<script src="{{.Site.BaseURL}}js/bootstrap.js"></script>
 </body>
