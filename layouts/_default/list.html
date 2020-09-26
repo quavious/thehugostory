@@ -18,9 +18,9 @@
 			{{ .Content }}
 		</div>
 		{{- end }}
-		{{- range (.Paginate .Pages).Pages.GroupByDate "2006" }}
+		{{- range (.Paginate .Pages).Pages.GroupByDate "2006.01" }}
 		<div class="posts-group">
-			<div class="post-year" id="{{ .Key }}">{{.Key}}</div>
+			<div class="post-year" id="{{ .Key }}">{{replace .Key "." "/"}}</div>
 			<ul class="posts-list">
 				{{- range .Pages }}
 				<li class="post-item">
