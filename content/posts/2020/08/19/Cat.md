@@ -6,12 +6,12 @@ tags :
  - life
  - daily
  - Cat
- -  Essay
- -  Illustration
+ - Essay
+ - Illustration
 date : 2020-08-19T11:19:38+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1570419364947-3d3148ce7710?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1570419364947-3d3148ce7710?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Jay and Wannie like to roll around on the floor and run around on the sofa (it's a secret that they like to scratch, too). But most of all, children like sunshine the most. Of course, after my beloved butler.  

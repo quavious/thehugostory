@@ -7,11 +7,11 @@ tags :
  - daily
  - Milk
  - substitution
- - and taste
+ - taste
 date : 2020-08-16T17:40:03+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1566827886201-f23910ecf37e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1566827886201-f23910ecf37e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Various beverages made using soybeans, grains and nuts have recently become popular as substitutes for milk. These drinks, which are not milk but savory and nutritious like milk, are called "vegetable drinks" or "alternative milk." A full-food "milk," which was considered essential food for growing children's growth and bone health, is being replaced by a growing number of products that are easily available at supermarkets and are being used instead of milk at coffee shops.  

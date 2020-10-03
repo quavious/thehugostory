@@ -1,17 +1,17 @@
 ---
-title: Diet,  Exercise,  Daily Record
+title: Diet, Exercise, Daily Record
 subtitle : Story#202008192029
 draft : false
 tags :
  - life
  - daily
  - Diet
- -  Exercise
- -  Daily Record
+ - Exercise
+ - Daily Record
 date : 2020-08-19T11:29:34+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1590150392010-faee192355f4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1590150392010-faee192355f4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Pigeons are not the only ones with homing instincts. In fact, our bodies also have a strong homing instinct. The fact that the body hates rapid change is evident in orthodontics and diets. Orthodontics and dieting are a product of patience and have something in common that it is difficult to maintain a perfect state. For braces, it takes at least a year to more than two years for the teeth and gums to move together. Patience is a must.  

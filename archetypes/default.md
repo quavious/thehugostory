@@ -6,5 +6,4 @@ draft: true
 author: "Ele.On.Now"
 toc: false
 images: ""
-thumbnail: "example"
 ---

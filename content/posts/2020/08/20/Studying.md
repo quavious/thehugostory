@@ -10,8 +10,8 @@ tags :
  -  and Studying
 date : 2020-08-20T12:55:02+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1520569365505-bd0dc3ce94bc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1520569365505-bd0dc3ce94bc?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 After a level test in English simply with beginners, speaking in Korean and speaking in English are usually the same tone. In English, there is a strength based on words and the rhythm of sentences created by the combination of those words, which ignores all of these principles, so speaking Korean in monotone and speaking in English becomes the same. It is also overlooked that English pronunciation, such as vowels and consonants, should be learned from the basics because it is often not intended to learn the principles of sound one by one. Naturally, I think I can pronounce and read English. Therefore, I think about how I can improve my fluency beyond the basic process.  

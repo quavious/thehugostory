@@ -1,17 +1,17 @@
 ---
-title: Self-internal,  Essay,  Marriage
+title: Self-internal, Essay, Marriage
 subtitle : Story#202008192026
 draft : false
 tags :
  - life
  - daily
  - Self-internal
- -  Essay
- -  Marriage
+ - Essay
+ - Marriage
 date : 2020-08-19T11:26:45+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1520051140094-06db16330c69?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1520051140094-06db16330c69?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 The bathroom ceiling plywood would rot. A wooden lathe in the bathroom. Why is the towel rack so low? That's how you do it. Hurry up and sell your house and leave.  

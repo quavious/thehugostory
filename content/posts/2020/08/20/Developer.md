@@ -10,8 +10,8 @@ tags :
  -  Occupational Life
 date : 2020-08-20T12:23:28+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1573164574397-dd250bc8a598?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1573164574397-dd250bc8a598?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 I worked as a developer for three years. Throughout the six years of majoring in computer engineering and completing a master's degree in college, I did a lot of coding, and I thought it suited my aptitude. So after six years of bachelor's and master's degrees, I got a job as a researcher at a research institute at a large company. It was quite a big company, so some of my college classmates joined together, and everyone was assigned to an ordinary department, but I was the only one who was assigned to an unusual department. It was a department that developed a system that was used in the field, and it was a Malman Institute, where there were many field trips and local business trips, and on average, 10 years old was a place to develop and improve the system used by more people in the field than our department members. According to his seniors, he was supposed to be in the field, but somehow he became a member of the institute. Anyway, after two years of working here, the department applied for a transfer to stay in Seoul as it moved to a local branch. But the department that moved so hard was not a normal place either. At that time, the company I got employed was a new company that was recently converted from a public company to a private company, but our team leader, who had a dream of creating a new business by breaking away from the image of a public company, chose SI as the business that our company should focus on in the future. The team leader, who had even excelled in sales, has won the first SI project in our company that we have never done before.  

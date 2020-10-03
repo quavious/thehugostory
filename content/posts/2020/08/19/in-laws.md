@@ -1,17 +1,17 @@
 ---
-title: in-laws,  families,  relationships
+title: in-laws, families, relationships
 subtitle : Story#202008192031
 draft : false
 tags :
  - life
  - daily
  - in-laws
- -  families
- -  relationships
+ - families
+ - relationships
 date : 2020-08-19T11:31:45+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1532375529846-384ae0b0d09e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1532375529846-384ae0b0d09e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 The role of the second husband in his in-laws, who had only two sons, was more like a daughter. If his wife, who is blunt and makes the family uncomfortable with her existence alone, takes care of the family affairs and plays the role of the eldest son who has the right to inherit, she only did what her husband told her to do and brighten the family atmosphere. Then it changed slightly the year before the incident.  

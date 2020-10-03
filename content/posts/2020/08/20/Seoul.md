@@ -11,8 +11,8 @@ tags :
  -  Memories
 date : 2020-08-20T11:49:42+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1544032527-bda976c77754?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1544032527-bda976c77754?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 The vacation of elementary school has begun. Fortunately, ZOOM classes and school attendance once a week seem to have filled the first semester's study. I was worried about children who had to wear masks during the day, but I'm glad to have a vacation without any accidents.  

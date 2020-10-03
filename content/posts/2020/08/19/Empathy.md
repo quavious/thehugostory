@@ -1,17 +1,17 @@
 ---
-title: Empathy essay,  joke,  solitude
+title: Empathy essay, joke, solitude
 subtitle : Story#202008192047
 draft : false
 tags :
  - life
  - daily
  - Empathy essay
- -  joke
- -  solitude
+ - joke
+ - solitude
 date : 2020-08-19T11:47:37+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1591698646815-1316b5378ab5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1591698646815-1316b5378ab5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 It was early winter with a chilly wind. A friend, who had been drinking every other day under the pretext of not being able to solve his life, was talking half-baked at a bar famous for fried shrimp near Hongdae that day. They were the so-called "what is solitude" and "why does it keep wanting to disappear?"  

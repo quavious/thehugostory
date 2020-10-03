@@ -3,13 +3,13 @@ title: "Life"
 date: 2020-08-09T22:00:02+09:00
 draft: true
 toc: false
-images:
 tags: 
-  - "life"
-  - "art"
-  - "party"
-  - "sense"
-thumbnail: "https://images.unsplash.com/photo-1586105449897-20b5efeb3233?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+  - life
+  - art
+  - party
+  - sense
+images: 
+ - "https://images.unsplash.com/photo-1586105449897-20b5efeb3233?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
 ---
 
 Now I am a mother of seven-and-a-half-year-old and four-and-a-half-year-old son and daughter waiting for my third child in December. Before I became a mother of three, there was a time when I was worried about raising my first child. My first son, Yul, followed people without shyness. Even when I was two years old, I used to play on the beach for an hour without my mom and dad, holding the hands of my Italian cook husband's colleagues. He also follows his father so well that he tried to go out at night to watch his friend's flamenco performance at night when he was 8 months old while breast-feeding. After coming back from the trip, I felt relieved and a little empty looking at my son sleeping quietly in his arms.    

@@ -6,12 +6,12 @@ tags :
  - life
  - daily
  - Vegetarian
- -  company
- -  interview
+ - company
+ - interview
 date : 2020-08-19T11:45:01+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1533622597524-a1215e26c0a2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1533622597524-a1215e26c0a2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 It was the end of the interview in a friendly atmosphere.  

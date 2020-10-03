@@ -11,7 +11,7 @@ tags :
 date : "2020-08-16T00:59:00+09:00"
 toc: false
 images: 
-thumbnail: https://images.unsplash.com/photo-1531279390331-0db31e853a49?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+ - https://images.unsplash.com/photo-1531279390331-0db31e853a49?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 "My sister, she's the first and last woman of my life. Help me."  

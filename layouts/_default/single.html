@@ -3,7 +3,7 @@
 	<style>.bg-img {background-image: url('{{.Params.featuredImg}}');}</style>
 	{{- else if .Params.images -}}
 		{{- range first 1 .Params.images -}}
-		<style>.bg-img {background-image: url('{{. | absURL}}');}</style>
+		<style>.bg-img {background-image: url('{{.}}');}</style>
 		{{- end -}}
 	{{- end -}}
 {{ end }}
@@ -18,12 +18,7 @@
 	{{- end }}
 	<main class="site-main section-inner thin animated fadeIn faster">
 		<h1>{{ .Title }}</h1>
-			<div class="content">
-			{{- if .Params.thumbnail}}
-			<p style="text-align: center;">
-			<img src='{{.Params.thumbnail}}' style="height: 360px; max-height: 100%;"/>
-			</p>
-			{{- end}}
+		<div class="content">
 			<!--<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
 			<ins class="adsbygoogle"
 				style="display:block; text-align:center;"
@@ -32,8 +27,12 @@
 				data-ad-client="ca-pub-8567722160341015"
 				data-ad-slot="9982248954"></ins>
 			<p style="display:none;">This is dummy Paragraph.</p>
+			<a class="btn btn-md btn-danger">Image Link</a>
 			{{ .Content | replaceRE "(<h[1-6] id=\"([^\"]+)\".+)(</h[1-6]+>)" `${1}<a href="#${2}" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a>${3}` | safeHTML }}
 		</div>
+		{{- if .Site.Params.relatedPosts }}
+		{{- partial "related-posts.html" . -}}
+		{{- end }}
 		{{- if .Params.comments }}
 		<div id="comments" class="thin">
 			{{ partial "comments.html" . }}

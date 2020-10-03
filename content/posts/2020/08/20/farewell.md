@@ -10,8 +10,8 @@ tags :
  -  dinner
 date : 2020-08-20T12:20:04+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1529268209110-62be1d87fe75?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1529268209110-62be1d87fe75?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Prologue  

@@ -3,13 +3,13 @@ title: "Dirty_nails_of_mother"
 date: 2020-08-13T01:38:32+09:00
 draft: true
 toc: false
-images:
 tags: 
-  - "life"
-  - "mother"
-  - "baby"
-  - "diary"
-thumbnail: "https://images.unsplash.com/photo-1508009219918-7d528f269841?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"   
+  - life
+  - mother
+  - baby
+  - diary
+images: 
+ - "https://images.unsplash.com/photo-1508009219918-7d528f269841?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"   
 ---
 
 "Honey, I'm going to babysit you. Go out for a minute."  

@@ -1,5 +1,5 @@
 ---
-title: Korean food,  culture,  international love
+title: Korean food, culture, international love
 subtitle : Story#202008190151
 draft : false
 tags :
@@ -10,8 +10,8 @@ tags :
  -  international love
 date : 2020-08-18T16:51:53+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1590438524657-e7d29a7513c8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1590438524657-e7d29a7513c8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Do you eat Korean food with your boyfriend?"  

@@ -1,17 +1,17 @@
 ---
-title: daughter-in-law,  in-laws,  daughter-in-law
+title: daughter-in-law, in-laws, daughter-in-law
 subtitle : Story#202008192039
 draft : false
 tags :
  - life
  - daily
  - daughter-in-law
- -  in-laws
- -  daughter-in-law
+ - in-laws
+ - daughter-in-law
 date : 2020-08-19T11:39:16+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1556566353-cdcb88a69f3c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1556566353-cdcb88a69f3c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 I got to move to a new apartment by collecting money hard. We had a loan, but we were so happy to have our nest. And isn't it a new apartment?  

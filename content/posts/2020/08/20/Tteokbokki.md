@@ -10,8 +10,8 @@ tags :
  -  daily life
 date : 2020-08-20T12:47:43+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1580651315530-69c8e0026377?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1580651315530-69c8e0026377?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 One day I asked my brother.  

@@ -6,13 +6,13 @@ tags :
  - life
  - daily
  - Seoul International Book Fair
- -  Military Clothes
- -  Minimal Life
- -  Environment
+ - Military Clothes
+ - Minimal Life
+ - Environment
 date : 2020-08-19T11:24:16+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1595663823598-931cd6b854fe?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1595663823598-931cd6b854fe?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 "I'm sensitive to smell!"  

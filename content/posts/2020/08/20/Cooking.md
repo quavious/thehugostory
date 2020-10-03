@@ -10,8 +10,8 @@ tags :
  -  parenting
 date : 2020-08-20T13:19:01+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1534942240902-fc71ff3dfaee?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1534942240902-fc71ff3dfaee?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 No. 2 likes a television show called Three Meals a Day. It is also an interesting point for the cast to show the harmony of the Tikitaka fantasy, but I especially like how Cha Seung-won makes a variety of dishes as if he were insignificant. His cooking has a different charm than other chefs who cover other cooking programs. The rough shape really makes me feel like I'm cooking for a living.  

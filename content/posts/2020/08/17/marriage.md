@@ -5,10 +5,10 @@ draft : false
 tags : 
  - life 
  - daily
-date : "2020-08-17T02:08:00.911Z"
+date : "2020-08-17T02:08:00+0900"
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1430806746135-4c9775bfea07?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1430806746135-4c9775bfea07?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Before getting married, my husband showed me a family image with spaghetti, fried rice, and kimbap. In fact, my husband's cooking skills were better than me who lived with my parents. But the only food that you made me after marriage was bibimmyeon and fried rice that I asked for. Even when I was at work, it was up to me to prepare dinner and wash the dishes. Of course, I did housework such as cleaning and laundry after I quit the company, and I was the only one who did the dishes after I ate and prepared bread or rice cakes for breakfast. I didn't do much food or do a great deal of housework, but it's a job, even if it's a small thing that doesn't stand out.  

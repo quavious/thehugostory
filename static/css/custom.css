@@ -34,3 +34,8 @@ body {
    color: #fff;
    background: #535e75
 }  
+
+.bg-img {
+    z-index: 0 !important;
+    opacity: 0.18 !important;
+}

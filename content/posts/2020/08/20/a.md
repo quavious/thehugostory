@@ -10,8 +10,8 @@ tags :
  -  company
 date : 2020-08-20T12:04:38+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1467319587390-9315f7ce8127?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1467319587390-9315f7ce8127?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 From the rainy morning, I drove my car to a private garage. The official service center came to the place where the dealer introduced it because it would take more than a month to visit even if it was registered immediately.  Fortunately, it wasn't as big as I thought it would be (of course, the specified cost was incurred without fail) by lunch. As I went up to Seoul, I recalled the six years I had spent with this friend. Now I'm doing this on a regular basis, but I was just young and strong the day I first came out (although I still run well now).  

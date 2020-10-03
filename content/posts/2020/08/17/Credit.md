@@ -5,10 +5,10 @@ draft : false
 tags : 
  - life 
  - daily
-date : 2020-08-16T17:13:56.421Z
+date : 2020-08-16T17:13:56+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1500021804447-2ca2eaaaabeb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1500021804447-2ca2eaaaabeb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Why aren't you picking up when you're just giving it to me?  

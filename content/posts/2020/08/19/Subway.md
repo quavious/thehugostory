@@ -6,12 +6,12 @@ tags :
  - life
  - daily
  - Subway
- -  Germany
- -  Ttakji
+ - Germany
+ - Ttakji
 date : 2020-08-18T15:36:04+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1595433631704-6df7e1e4a070?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1595433631704-6df7e1e4a070?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 I was so tired today. From morning to morning, German classes, community meetings, and meetings with former company representatives overlapped one after another, making it hard to come to my senses. After the schedule is over, it's 5:30 p.m.  

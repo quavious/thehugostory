@@ -9,8 +9,8 @@ tags :
  -  self-introduction letter
 date : 2020-08-20T12:34:52+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1527689368864-3a821dbccc34?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1527689368864-3a821dbccc34?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 I had two "job-seeking" periods. The second half of last year and the second half of this year. Both times, with serious determination, the methods were a little different, and the results were vastly different.  

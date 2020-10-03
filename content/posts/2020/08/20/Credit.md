@@ -10,8 +10,8 @@ tags :
  -  workplace
 date : 2020-08-20T11:51:36+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1592422301129-040e79c25612?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1592422301129-040e79c25612?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Banks work in circulation. So at the end of each year, the old man leaves for another branch and a new employee comes. However, only the bank's security guards remain the same. Because we don't have a circular shift. So I couldn't help but express my respect when I heard that there were people who worked at a branch for more than 10 years. Bankers are also at one point for as little as 1-2 years. There was an old employee at the branch I was in. He joined the bank, worked for four years at the first branch he was assigned, and was now looking for five years. He was a man in his 30s who was similar to me. When it was lunchtime, we always ate together. We ate together for a year but I couldn't get along with him. It felt like there was something in sight on the wall. He said he was about the same age, but I was older than him. Maybe that's why. He had never come near me in a moment. Of course, I didn't want to get close, either. Because he was like a person from a different world than me.  

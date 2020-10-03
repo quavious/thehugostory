@@ -10,8 +10,8 @@ tags :
  -  daughter
 date : 2020-08-20T13:38:57+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1484665754804-74b091211472?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1484665754804-74b091211472?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 The morning sickness lasted until around six months, and in the meantime, there were quite a few days when my husband stayed at home during pregnancy, leaving several business trips.  

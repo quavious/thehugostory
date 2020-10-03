@@ -1,17 +1,17 @@
 ---
-title: hometown,  life,  essay
+title: hometown, life, essay
 subtitle : Story#202008180120
 draft : false
 tags :
  - life
  - daily
  - hometown
- -  life
- -  essay
+ - life
+ - essay
 date : 2020-08-17T16:20:16+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1516441857875-05fbaeeb5455?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1516441857875-05fbaeeb5455?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 I was born and raised in the city. There were many people everywhere in my hometown, Incheon. Crowd and bubbling were the proper adverbs for the city.  

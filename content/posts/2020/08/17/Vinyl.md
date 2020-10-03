@@ -6,12 +6,12 @@ tags :
  - life
  - daily
  - Vinyl bags
- -  vinyl
- -  fabric
+ - vinyl
+ - fabric
 date : 2020-08-17T12:37:40+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1587721191599-5a286ef75f77?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1587721191599-5a286ef75f77?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Buy one serving of food ingredients without plastic bags  

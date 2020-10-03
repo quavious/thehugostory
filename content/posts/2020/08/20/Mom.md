@@ -1,5 +1,5 @@
 ---
-title: Mom,  child care,  child care essay.
+title: Mom,  child care,  child care essay
 subtitle : Story#202008202133
 draft : false
 tags :
@@ -7,11 +7,11 @@ tags :
  - daily
  - Mom
  -  child care
- -  child care essay.
+ -  child care essay
 date : 2020-08-20T12:33:07+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1514395452474-1bf16ebee370?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1514395452474-1bf16ebee370?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Many things change after you become a mother. The time to wake up changes and the food, thoughts, and appearance changes a lot. When you become a working mother, your life cycle also changes to child-centered. Weekdays belong to the company, weekends belong to the child, so not every day belongs to me. You've changed my whole life like this, and I can't believe it'  

@@ -1,18 +1,17 @@
 ---
-title: Childcare,  love,  life
+title: Childcare, love, life
 subtitle : Story#202008170253
 draft : false
 tags :
  - life
  - daily
-
  - Childcare
- -  love
- -  life
+ - love
+ - life
 date : 2020-08-16T17:53:25+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1535912259434-add45732e720?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1535912259434-add45732e720?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 At the time when I was having a hard time with childcare, which was my first time in my life, and of course, I still had a hard time, but at that time, my mother called me from home.  

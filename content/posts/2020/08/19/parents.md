@@ -1,5 +1,5 @@
 ---
-title: parents, retirement, role role
+title: parents, retirement, role
 subtitle : Story#202008192042
 draft : false
 tags :
@@ -7,11 +7,11 @@ tags :
  - daily
  - parents
  - retirement
- - role role
+ - role
 date : 2020-08-19T11:42:29+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1592393377563-504708356873?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1592393377563-504708356873?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 Now, in your fourth year as a parent, you're thinking of retiring when you're about to burn your heart to do something with a title like a new assistant manager? Just in case, to tell you in advance, it's not about 'I want to quit' but about 'I want to do better.'  

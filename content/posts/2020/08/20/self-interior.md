@@ -10,8 +10,8 @@ tags :
  - mirror
 date : 2020-08-20T12:53:45+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1553908453-a1bfbae9b89f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1553908453-a1bfbae9b89f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 It's been a year since I came to England. When I first got a house, it was September when it was getting chilly, so I wanted the house to be warm. Fortunately, my husband's fortune-telling house was a warm house with good heating. Although it is a small house if it is narrow in one room, it is still a grateful house that provided a space for a fresh start.  

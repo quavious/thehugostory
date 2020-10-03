@@ -10,8 +10,8 @@ tags :
  -  prejudices
 date : 2020-08-20T13:15:55+0900
 toc: false
-images: 
-thumbnail: https://images.unsplash.com/photo-1543422019-aca34b6e2aca?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
+images : 
+ - https://images.unsplash.com/photo-1543422019-aca34b6e2aca?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjE1NTU0OX0
 ---
 
 During my adolescence, which was a very sensitive time, I sent my mom away with cancer.  
