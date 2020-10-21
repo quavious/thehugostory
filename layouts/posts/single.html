@@ -22,12 +22,19 @@
 				<div class="post-meta"><span>{{ .Date.Format .Site.Params.dateform }}</span></div>
 				<h1>{{ .Title }}</h1>
 			</header>
+			<br/>
 			<div class="content">
 				{{- if .Params.thumbnail}}
 				<p style="text-align: center;">
 				<img src='{{.Params.thumbnail}}' style="height: 360px; max-height: 100%;"/>
 				</p>
 				{{- end}}
+				
+				{{- if (or .Params.images .Params.featuredImg) }}
+				{{- range first 1 .Params.images -}}
+				<a href="{{.}}"><img src="{{.}}" width="100%"/></a>
+				{{- end -}}
+				{{- end }}
 				<ins class="adsbygoogle"
 					style="display:block; text-align:center;"
 					data-ad-layout="in-article"
@@ -35,15 +42,7 @@
 					data-ad-client="ca-pub-8567722160341015"
 					data-ad-slot="9982248954"></ins>
 				<br/>
-				<p class="main-title-paragraph">This is dummy Paragraph.</p>
-				{{- if (or .Params.images .Params.featuredImg) }}
-				{{- range first 1 .Params.images -}}
-				<a class="btn btn-md btn-danger" href="{{.}}">Image Link</a>
-				{{- end -}}
-				{{- end }}
-				<br/>
 				{{ .Content | replaceRE "(<h[1-6] id=\"([^\"]+)\".+)(</h[1-6]+>)" `${1}<a href="#${2}" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a>${3}` | safeHTML }}
-				<p class="main-title-paragraph">This is dummy Paragraph.</p>
 			</div>
 			{{- if .Site.Params.relatedPosts }}
 			{{- partial "related-posts.html" . -}}
